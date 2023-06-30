@@ -15,5 +15,5 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "raccoon"
-include ':app'
+//include ':app'
 include ':raccoon'
