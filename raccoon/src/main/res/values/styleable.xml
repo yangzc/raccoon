@@ -1,0 +1,6 @@
+<resources>
+    <declare-styleable name="view_info">
+        <attr name="viewTag" format="string" />
+        <attr name="dataBundle" format="string"/>
+    </declare-styleable>
+</resources>
